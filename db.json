@@ -1,0 +1,34 @@
+{
+    "movies": [
+      {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_SX1000.jpg",
+        "title": "DDLG",
+        "director": "Rahul Yadav",
+        "year": "2334",
+        "genre": "action",
+        "IMDB_Rating": "1.4",
+        "ticket": "1.2",
+        "id": 1
+      },
+      {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_SX1000.jpg",
+        "title": "frefe",
+        "director": "Peyton Reed",
+        "year": "2022",
+        "genre": "comedy",
+        "IMDB_Rating": "1.4",
+        "ticket": "122",
+        "id": 2
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
